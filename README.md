@@ -62,3 +62,9 @@ I still believed I was on to something with the correlation concept in the linea
 
 #### Decision Tree Regression Model
 Already being fairly content with my KNN model, I only planned to briefly dip into decision trees. With the base model returning an accuracy of 64%, 8% worse than the KNN, I was more than happy to move on.
+
+### Model to determine importance of features
+As already mentioned we, TheAgency, are quite the luxurious real-estate-agency. Thus we were especially interested in houses with a value equal to and greater than $650k. Here a simple pandas query did the trick.
+
+#### Random Forest Regression Model
+To determine feature importance one could've based their answer on a correlation matrix. We as a agency, however, have to keep our standards high, which is why I opted for a ensemble method of the Random Forest Regressor. I then ran the model through a inspection method, which gave me my final results.
