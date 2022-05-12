@@ -12,7 +12,7 @@ by [Lucas Trost](https://github.com/LucasTrost), May 2022
 ## Table of content
 
 - [Project Brief](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#project-brief)
-- [Exploratory Data Analysis](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#Exploratory-Data-Analysis(EDA))
+- [Exploratory Data Analysis](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#exploratory-data-analysis-eda)
 
 ## Project Brief
 
