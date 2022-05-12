@@ -10,6 +10,7 @@ by [Lucas Trost](https://github.com/LucasTrost), May 2022
 - [Project Brief](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#project-brief)
 - [Exploratory Data Analysis](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#exploratory-data-analysis-eda)
 - [Machine Learning Process](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#machine-learning-process)
+- [Key Take Aways](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#key-take-aways)
 ## Project Brief
 
 **Scenario:**
