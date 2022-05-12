@@ -19,7 +19,7 @@ As a market analyst for real estate agency: TheAgency, my job is to work with an
 **Challenge:**
 Using a dataset I pulled from a market study in 2015, I was to build a model that can predict the price of houses in the Seattle area. In addition, as TheAgency regards itself as a high-end real estate agency, I was tasked to explore what features exactly determine high prices.
 
-Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
+Further project details such as deliverables can be found [here](https://github.com/LucasTrost/Ironhack-MidBootProject/tree/main/project%20details)
 
 ## Exploratory Data Analysis (EDA)
 To explore and understand the data I chose to use the following tools:
