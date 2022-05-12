@@ -1,13 +1,9 @@
-# Ironhack-MidBootProject
- 
-https://public.tableau.com/app/profile/lucas.trost/viz/TableauWorkbookMidBootProjLucasTrost/Task2
-
 # Ironhack Mid-Bootcamp Project | Regression Case Study 
 by [Lucas Trost](https://github.com/LucasTrost), May 2022
 <br/><br/>
 ## Prediciting the value of houses
 
-
+![image](https://user-images.githubusercontent.com/102299197/168103802-4e279a4c-f0ff-4883-93b0-0e0c2b086e30.png)
 
 ## Table of content
 
