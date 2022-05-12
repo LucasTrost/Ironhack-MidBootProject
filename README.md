@@ -61,4 +61,4 @@ This led to two strong opposing groups: houses with, and houses without a renova
 I still believed I was on to something with the correlation concept in the linear regressions model. Thus I experimented a bit, and dropping sqft_basement and sqft_above (which = sqft_living), the model improved yet again.
 
 #### Decision Tree Regression Model
-Already being fairly content with my KNN model, I 
+Already being fairly content with my KNN model, I only planned to briefly dip into decision trees. With the base model returning an accuracy of 64%, 8% worse than the KNN, I was more than happy to move on.
