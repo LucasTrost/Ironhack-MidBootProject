@@ -11,7 +11,7 @@ by [Lucas Trost](https://github.com/LucasTrost), May 2022
 
 ## Table of content
 
-- [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Project Brief](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#project-brief)
 - [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
 - [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
 - [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
