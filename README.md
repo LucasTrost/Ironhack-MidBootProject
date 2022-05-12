@@ -68,5 +68,8 @@ As already mentioned we, TheAgency, are quite the luxurious real-estate-agency. 
 
 #### Random Forest Regression Model
 To determine feature importance one could've based their answer on a correlation matrix. We as a agency, however, have to keep our standards high, which is why I opted for a ensemble method of the Random Forest Regressor. I then ran the model through a inspection method, which gave me my final results.
+<img width="777" alt="Screenshot 2022-05-12 at 17 47 27" src="https://user-images.githubusercontent.com/102299197/168116049-4bc0c891-3e47-4c91-9064-92145b5d5ae9.png">
 
 take a look at my python notebook and further anotations [here](https://github.com/LucasTrost/Ironhack-MidBootProject/tree/main/Python%20Notebook)
+
+## Key Take Aways
