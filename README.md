@@ -73,3 +73,9 @@ To determine feature importance one could've based their answer on a correlation
 take a look at my python notebook and further anotations [here](https://github.com/LucasTrost/Ironhack-MidBootProject/tree/main/Python%20Notebook)
 
 ## Key Take Aways
+#### Model for estimating price:
+With an accuracy of 72.25% and a RSME of $195k the model is fairly accurate, but no where close for us, TheAgency, to solemnly rely on it for price determination.
+#### Model to determine importance of features
+Here the results seem alot more promising, as wee gained a clear guideline as to which features determine high prices.
+#### Overall conclusion
+I believe the two models to be of good aid for our new office in Seattle, especially the ladder. I can see us scanning the real estate market for the determined features, and calculating a rough price range, before sending out one of our agents. Because in the end, little beats the judgement and expertise of a TheAgency's agent.
