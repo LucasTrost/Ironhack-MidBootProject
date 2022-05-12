@@ -9,7 +9,7 @@ by [Lucas Trost](https://github.com/LucasTrost), May 2022
 
 - [Project Brief](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#project-brief)
 - [Exploratory Data Analysis](https://github.com/LucasTrost/Ironhack-MidBootProject/blob/main/README.md#exploratory-data-analysis-eda)
-
+- [Machine Learning Process](https://github.com/LucasTrost/Ironhack-MidBootProject/edit/main/README.md#machine-learning-process)
 ## Project Brief
 
 **Scenario:**
@@ -31,4 +31,14 @@ For SQL query file see [here](https://github.com/LucasTrost/Ironhack-MidBootProj
 
 ## Machine Learning Process
 
-### Pre-Model
+### Pre-Modeling
+Besides EDA there were a few necessary steps to take, in order to ensure valid results end results
+The most notable steps here were:
+#### Dropping columns
+One obvious column to drop straight away, was the Unknown :1 column, which was some form of indexing included in the data. Next I decided to drop the columns: id, date, lat, long as all of these would lead to heavy overfitting. I had no trouble dropping lat and long, as the combination of the two is very unique. Date was the only column I had some trouble with. In the end I decided that the data wasn't dense enough to justify keeping the column. In other words, date was quite unique, hence the benefit of keeping it did not outweigh the aspect of overfitting.
+#### Dropping outliers
+Through extensive work in Tableau I was quite confident with outliers. The only notable one, which seemed like bad data was the property worth ca. 500k, that had a number of 33 bedrooms. Price outliers or anything similar were kept.
+#### Scaling
+As our DataFrame had vastly differentiating number ranges, and consisted of only numerical columns, I decided it would be best to apply a MinMaxScaler() to the entire DataFrame.
+
+### Model for estimating price
