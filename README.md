@@ -29,4 +29,6 @@ For Tableau workbook see [here](https://github.com/LucasTrost/Ironhack-MidBootPr
 Importing the data to SQL was no smooth sailing. Apparently the csv. file from the study was corrupted. In order to circumvent said problem, I exported the excel version of the data into Python, where I turned it into a DataFrame, and downloaded as a csv. This seemed to work, and I was able to get started on querying. Overall I was already pretty happy with my understanding of the data, which is why I kept querying to a minimal.
 For SQL query file see [here](https://github.com/LucasTrost/Ironhack-MidBootProject/tree/main/SQL%20Querys)
 
+## Machine Learning Process
 
+### Pre-Model
