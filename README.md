@@ -26,7 +26,7 @@ To explore and understand the data I chose to use the following tools:
 ### Tableau:
 Tableau is a great tool to jump into dataset, play around, and gain insights. I spent a significant chunk of time on Tableau, creating Dashboards and stories, through which I became very familiar with the data.
 
-For Tableau workbook see [here](https://github.com/LucasTrost/Ironhack-MidBootProject/tree/main/Tableau)
+For Tableau workbook see [here](https://public.tableau.com/app/profile/lucas.trost/viz/TableauWorkbookMidBootProjLucasTrost/Task2)
 ### SQL:
 Importing the data to SQL was no smooth sailing. Apparently the csv. file from the study was corrupted. In order to circumvent said problem, I exported the excel version of the data into Python, where I turned it into a DataFrame, and downloaded as a csv. 
 
