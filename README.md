@@ -26,7 +26,7 @@ To explore and understand the data I chose to use the following tools:
 ### Tableau:
 Tableau is a great tool to jump into dataset, play around, and gain insights. I spent a significant chunk of time on Tableau, creating Dashboards and stories, through which I became very familiar with the data.
 
-For Tableau workbook see [here](https://public.tableau.com/app/profile/lucas.trost/viz/TableauWorkbookMidBootProjLucasTrost/Task2)
+Feel free to explore the [Tableau](https://public.tableau.com/app/profile/lucas.trost/viz/TableauWorkbookMidBootProjLucasTrost/Task2) and/or the presentation [slides](https://docs.google.com/presentation/d/1a8KI_ejQg2CMe7zK58Rg-I7sInZN08zFe38I-wSfIOk/edit#slide=id.g106fa6903b0_1_0)
 ### SQL:
 Importing the data to SQL was no smooth sailing. Apparently the csv. file from the study was corrupted. In order to circumvent said problem, I exported the excel version of the data into Python, where I turned it into a DataFrame, and downloaded as a csv. 
 
